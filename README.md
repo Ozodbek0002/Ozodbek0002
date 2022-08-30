@@ -15,6 +15,7 @@ contact me
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek0002&layout=compact&theme=radical) <br>
 
 My coding time -
+[![wakatime](https://wakatime.com/badge/user/88be9afb-b2e3-4019-85f9-6e7d02e50981.svg)](https://wakatime.com/@88be9afb-b2e3-4019-85f9-6e7d02e50981)
 [![wakatime](https://wakatime.com/badge/user/9d23e17e-f5ad-4358-b1da-465482441815.svg)](https://wakatime.com/@9d23e17e-f5ad-4358-b1da-465482441815)
 
 ![snake svg](https://github.com/Ozodbek0002/Ozodbek0002/blob/output/github-contribution-grid-snake.svg)
