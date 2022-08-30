@@ -17,6 +17,7 @@ contact me
 My coding time -
 [![wakatime](https://wakatime.com/badge/user/c96df822-ee4c-482a-a5e8-da028f80d870.svg)](https://wakatime.com/@c96df822-ee4c-482a-a5e8-da028f80d870)
 
+![snake svg](https://github.com/DiyorbekBoltayev/DiyorbekBoltayev/blob/output/github-contribution-grid-snake.svg)
 ![snake svg](https://github.com/Ozodbek0002/Ozodbek0002/blob/output/github-contribution-grid-snake.svg)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
