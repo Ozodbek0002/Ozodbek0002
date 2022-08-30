@@ -6,7 +6,7 @@
 👨‍💻 I’m looking to collaborate on projects \
 💬 I'm 19-years old developer from Uzbekistan/Khorezm \
 🌐 My web-site [AmuSof.uz](http://amusoft.uz) \
-📫 Reach me on [![ Ozodbek Ozodov ](https://img.shields.io/badge/OzodovOzodbek-30302f?style=flat&logo=telegram)](https://t.me/Ozodbek_Ozodov2) \ 
+📫 Reach me on [![ Ozodbek Ozodov ](https://img.shields.io/badge/OzodovOzodbek-30302f?style=flat&logo=telegram)](https://t.me/Ozodbek_Ozodov2) <br> 
 contact me
 🪐<a href="https://www.instagram.com/ozodbek_ozodov1/" target="_blank"> Instagram </a>
 🌍<a href="https://www.linkedin.com/in/ozodbek-ozodov-58a394248/" target="_blank"> LinkedIn </a>
