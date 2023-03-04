@@ -1,6 +1,5 @@
 ### 👋  Hi, I'm  Ozodov Ozodbek
- 
-    
+   
 💫 I like creating Website and Telegram bot\
 💻 I know PHP & MYSQL & Laravel  \
 👨‍💻 I’m looking to collaborate on projects \
@@ -10,10 +9,8 @@ contact me
 🪐<a href="https://www.instagram.com/ozodbek_ozodov1/" target="_blank"> Instagram </a>
 🌍<a href="https://www.linkedin.com/in/ozodbek-ozodov-58a394248/" target="_blank"> LinkedIn </a>
 
-
 ![Dynamic name](https://github-readme-stats.vercel.app/api?username=Ozodbek0002&show_icons=true&theme=radical) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek0002&layout=compact&theme=radical) <br>
-
 
 My coding time -
 [![wakatime](https://wakatime.com/badge/user/c96df822-ee4c-482a-a5e8-da028f80d870.svg)](https://wakatime.com/@c96df822-ee4c-482a-a5e8-da028f80d870)
