@@ -6,7 +6,7 @@
 💬 I'm 20-years old developer from Uzbekistan/Khorezm \
 📫 Reach me on [![ Ozodbek Ozodov ](https://img.shields.io/badge/OzodovOzodbek-30302f?style=flat&logo=telegram)](https://t.me/Ozodbek_Ozodov2) <br> 
 contact me
-🪐<a href="http://ozodov.uz" target="_blank"> Portfolio </a>
+🪐<a href="http://ozodov.uz" target="/blank"> Portfolio </a>
 <!-- 🌍<a href="https://www.linkedin.com/in/ozodbek-ozodov-58a394248/" target="_blank"> LinkedIn </a> -->
 
 ![Dynamic name](https://github-readme-stats.vercel.app/api?username=Ozodbek0002&show_icons=true&theme=radical) <br>
