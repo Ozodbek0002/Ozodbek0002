@@ -31,8 +31,8 @@ My coding time -
   <img title="JavaScript"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt="mysql" width="45" height="45"/>
    
    <hr>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ozodbek0002&show_icons=true&theme=gotham" alt="Ozodbek" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek0002&layout=compact&theme=radical" alt="Ozodbek" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ozodbek0002&show_icons=true&theme=gotham" alt="Ozodbek" />
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ozodbek0002&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Diyorbek" /></a> </p>
