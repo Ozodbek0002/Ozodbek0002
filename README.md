@@ -9,8 +9,7 @@ contact me
 🪐<a href="http://ozodov.uz" target="/blank"> Portfolio </a>
 
 
-![Dynamic name](https://github-readme-stats.vercel.app/api?username=Ozodbek0002&show_icons=true&theme=radical) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek0002&layout=compact&theme=radical) <br>
+
 
 My coding time -
 [![wakatime](https://wakatime.com/badge/user/c96df822-ee4c-482a-a5e8-da028f80d870.svg)](https://wakatime.com/@c96df822-ee4c-482a-a5e8-da028f80d870)
@@ -35,6 +34,8 @@ My coding time -
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ozodbek0002&show_icons=true&theme=gotham" alt="Ozodbek" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ozodbek0002&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Diyorbek" /></a> </p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek0002&layout=compact&theme=radical) <br>
 
 
 
