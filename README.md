@@ -35,8 +35,6 @@ My coding time -
   <img title="Bootstrap"  src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="mysql" width="45" height="45"/>
   
    
-   
-   
    <hr>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek0002&layout=compact&theme=radical" alt="Ozodbek" />
