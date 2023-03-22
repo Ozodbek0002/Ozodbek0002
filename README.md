@@ -45,4 +45,3 @@ My coding time -
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ozodbek0002&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Diyorbek" /></a> </p>
 
 
-
