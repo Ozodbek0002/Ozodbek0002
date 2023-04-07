@@ -9,6 +9,7 @@
 contact me
 🪐<a href="http://ozodov.uz" target="/blank"> Portfolio </a>
 
+<a href="https://docs.google.com/document/d/13qBQn1xGVr0nbCmg2PNnE7idN8tntiQaHXPgfYutYzE/edit?usp=drivesdk" target="/blank"> Nagap </a>
 
 My coding time -
 [![wakatime](https://wakatime.com/badge/user/c96df822-ee4c-482a-a5e8-da028f80d870.svg)](https://wakatime.com/@c96df822-ee4c-482a-a5e8-da028f80d870)
