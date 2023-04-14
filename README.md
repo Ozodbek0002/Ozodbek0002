@@ -9,7 +9,6 @@
 contact me
 🪐<a href="http://ozodov.uz" target="/blank"> Portfolio </a>
 
-
 My coding time -
 [![wakatime](https://wakatime.com/badge/user/c96df822-ee4c-482a-a5e8-da028f80d870.svg)](https://wakatime.com/@c96df822-ee4c-482a-a5e8-da028f80d870)
 
