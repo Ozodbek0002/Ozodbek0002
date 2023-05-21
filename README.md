@@ -20,6 +20,7 @@ My coding time -
 <p align="left">
 
 
+
   <img title="PHP"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 
   <img title="Laravel"  src="https://asset.brandfetch.io/ide68-31CH/idlxAUbIOo.jpeg" alt="laravel" width="45" height="45"/>
