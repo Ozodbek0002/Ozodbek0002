@@ -25,17 +25,15 @@ My coding time -
   <img title="PHP"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 
   <img title="Laravel"  src="https://asset.brandfetch.io/ide68-31CH/idlxAUbIOo.jpeg" alt="laravel" width="45" height="45"/>
-   
-  <img title="Python"  src="https://avatars.githubusercontent.com/Python" alt="mysql" width="45" height="45"/>
- 
-  <img title="Java"  src="https://avatars.githubusercontent.com/Java" alt="mysql" width="45" height="45"/>
-   
+
   <img title="JavaScript"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt="mysql" width="45" height="45"/>
+  
+  <img title="Angular"  src="https://avatars.githubusercontent.com/Angular" alt="mysql" width="45" height="45"/>
    
+ 
   <img title="MySQL"  src="https://e7.pngegg.com/pngimages/617/252/png-clipart-mysql-workbench-computer-icons-logo-database-server-blue-text.png" alt="mysql"     width="45" height="45"/>
-  <img title="HTML"  src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw" alt="mysql" width="45" height="45"/>
-  <img title="CSS"  src="https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo" alt="mysql" width="45" height="45"/>
-  <img title="Bootstrap"  src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="mysql" width="45" height="45"/>
+ 
+  <img title="Git"  src="https://avatars.githubusercontent.com/Git" alt="mysql" width="45" height="45"/>
  
   <hr>
 
