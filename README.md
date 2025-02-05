@@ -4,7 +4,7 @@
 💫 I like creating Website and Telegram bot\
 💻 I know JavaScript & Angular & PHP & MYSQL & Laravel  \
 👨‍💻 I’m looking to collaborate on projects \
-💬 I'm 21-years old developer from Uzbekistan/Khorezm \
+💬 I'm 22-years old developer from Uzbekistan/Khorezm \
 📫 Reach me on [![ Ozodbek Ozodov ](https://img.shields.io/badge/OzodovOzodbek-30302f?style=flat&logo=telegram)](https://t.me/Ozodbek_Ozodov2) <br> 
 contact me
 🪐<a href="http://ozodovdev.uz" target="/blank"> Portfolio </a>
