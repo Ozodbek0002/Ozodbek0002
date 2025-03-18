@@ -1,5 +1,8 @@
 # 💫 About Me:
-💬 I'm 22-years old developer from Uzbekistan/Khorezm<br>👨‍💻 I am currently a frontend programmer at Uzinfocom<br>💫 I like creating Website and Telegram bot and Education<br>
+🙋🏻‍♂️ My name is Ozodbek Ozodov
+💬 I'm 22-years old developer from Uzbekistan/Khorezm<br>
+👨‍💻 I am currently a frontend programmer at Uzinfocom<br>
+💫 I like creating Website and Telegram bot and Education<br>
 
 
 ## 🌐 Socials:
