@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Ozodbek0002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # Coding time :
-[![wakatime](https://wakatime.com/badge/user/9d23e17e-f5ad-4358-b1da-465482441815.svg)](https://wakatime.com/@9d23e17e-f5ad-4358-b1da-465482441815)
+[![wakatime](https://wakatime.com/badge/user/9d23e17e-f5ad-4358-b1da-465482441815.svg)](https://wakatime.com/@waka_9d23e17e-f5ad-4358-b1da-465482441815)
 
 
 
