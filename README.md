@@ -23,6 +23,9 @@
 
 # Coding time : [![wakatime](https://wakatime.com/badge/user/9d23e17e-f5ad-4358-b1da-465482441815.svg)](https://wakatime.com/@9d23e17e-f5ad-4358-b1da-465482441815)
 
+# Coding time :
+[![wakatime](https://wakatime.com/badge/user/9bbb3350-4486-40b3-babd-75e87d6c1329.svg)](https://wakatime.com/@9bbb3350-4486-40b3-babd-75e87d6c1329)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ozodbek0002/Ozodbek0002/output/github-snake-dark.svg" />
