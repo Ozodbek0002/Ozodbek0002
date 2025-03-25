@@ -18,13 +18,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ozodbek0002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ozodbek0002&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 # Coding time :
 [![wakatime](https://wakatime.com/badge/user/9d23e17e-f5ad-4358-b1da-465482441815.svg)](https://wakatime.com/@waka_9d23e17e-f5ad-4358-b1da-465482441815)
-
-
 
 
 <picture>
@@ -39,5 +34,3 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ozodbekozok) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
