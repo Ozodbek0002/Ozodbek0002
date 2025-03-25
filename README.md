@@ -19,7 +19,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Ozodbek0002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # Coding time :
-[![wakatime](https://wakatime.com/badge/user/9d23e17e-f5ad-4358-b1da-465482441815.svg)](https://wakatime.com/@waka_9d23e17e-f5ad-4358-b1da-465482441815)
+[![wakatime](https://wakatime.com/badge/user/81c2223f-88d2-48bb-b43e-2cb717575a6e.svg)](https://wakatime.com/@waka_81c2223f-88d2-48bb-b43e-2cb717575a6e)
 
 
 <picture>
