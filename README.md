@@ -18,11 +18,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ozodbek0002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# Coding time :
-
+# Coding time : 
 <a href="https://wakatime.com/@c96df822-ee4c-482a-a5e8-da028f80d870"><img src="https://wakatime.com/badge/user/c96df822-ee4c-482a-a5e8-da028f80d870.svg" alt="Total time coded since Jul 16 2022" /></a>
 
-[![wakatime](https://wakatime.com/badge/user/81c2223f-88d2-48bb-b43e-2cb717575a6e.svg)](https://wakatime.com/@waka_81c2223f-88d2-48bb-b43e-2cb717575a6e)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ozodbek0002/Ozodbek0002/output/github-snake-dark.svg" />
